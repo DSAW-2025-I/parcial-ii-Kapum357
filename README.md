@@ -1,16 +1,7 @@
-# Web Development Exam - Backend with Express.js
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/CBIH3_Lj)
+# Web Development Exam - Backend with Express.js (Krish Aaron Purmessur Moros)
 
-## Overview
-Este examen evalúa tu capacidad para construir un backend básico usando Express.js. Crearás una API sencilla para gestionar información de productos.
-
-## Instrucciones
-- Tienes **1:30 horas** para completar el examen.
-- Escribe **código limpio y bien documentado**.
-- Asegúrate de que tu aplicación se ejecute sin errores antes de enviarla.
-- Usa solo **JavaScript vanilla** y **Express.js**.
-- No utilices bases de datos externas; almacena los datos en memoria.
-- El enlace del repositorio desplegado debe agregarse al README para poder calificar el examen. Todo repositorio sin marcar no será calificado.
-
+[![Vercel](https://vercel.com/button)](https://parcial-ii-kapum357-git-master-kapum357s-projects.vercel.app)
 ## Requerimientos
 
 1. **Crea un servidor en Express.js** que escuche en el puerto `3000`. (10 puntos)
@@ -36,9 +27,3 @@ Este examen evalúa tu capacidad para construir un backend básico usando Expres
 | `GET /products/:id` maneja IDs válidos e inválidos | 10     |
 | `POST /products` agrega un nuevo producto correctamente | 10     |
 | **Despliegue (Obligatorio, sin puntaje)** | **Si no se despliega el repositorio, no se califica el examen.** |
-
-## Entrega
-- Sube tu código a un **repositorio en GitHub** y despliéguelo en **vercel**.
-- Agregue el enlace del repositorio desplegado al README.
-
-¡Buena suerte!
