@@ -8,7 +8,9 @@
   },
   "dependencies": {
     "cors": "^2.8.5",
-    "express": "^5.1.0"
+    "curl": "^0.1.4",
+    "express": "^5.1.0",
+    "product-api": "file:"
   },
   "devDependencies": {
     "nodemon": "^3.0.1"
